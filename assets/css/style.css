@@ -214,6 +214,7 @@ img {
   height: auto;
 }
 
+
 a {
   text-decoration: none;
 }
@@ -233,6 +234,7 @@ p {
     padding-bottom: 100px;
   }
 }
+
 @media (max-width: 991px) {
   .pb-130 {
     padding-bottom: 90px;
@@ -1734,28 +1736,28 @@ blockquote .quote {
   }
 }
 .topbar-area .topbar-wrap .header-logo img {
-  min-width: 120px;
-  max-width: 120px;
+  min-width: 180px;
+  max-width: 180px;
 }
 @media (min-width: 992px) and (max-width: 1199px) {
   .topbar-area .topbar-wrap .header-logo img {
-    max-width: 100px;
-    min-width: 100px;
+    max-width: 180px;
+    min-width: 180px;
   }
 }
 .topbar-area .topbar-wrap .logo-and-search-area {
   display: flex;
   align-items: center;
-  gap: 70px;
+  gap: 100px;
 }
 @media (max-width: 1399px) {
   .topbar-area .topbar-wrap .logo-and-search-area {
-    gap: 55px;
+    gap: 175px;
   }
 }
 @media (max-width: 1199px) {
   .topbar-area .topbar-wrap .logo-and-search-area {
-    gap: 45px;
+    gap: 145px;
   }
 }
 .topbar-area .topbar-wrap .logo-and-search-area .search-area {
@@ -2981,26 +2983,26 @@ header.style-2 .header-logo {
 header.style-2 .logo-and-menu-area {
   display: flex;
   align-items: center;
-  gap: 108px;
+  gap: 170px;
 }
 @media (max-width: 1799px) {
   header.style-2 .logo-and-menu-area {
-    gap: 90px;
+    gap: 150px;
   }
 }
 @media (max-width: 1699px) {
   header.style-2 .logo-and-menu-area {
-    gap: 80px;
+    gap: 180px;
   }
 }
 @media (min-width: 1400px) and (max-width: 1599px) {
   header.style-2 .logo-and-menu-area {
-    gap: 70px;
+    gap: 170px;
   }
 }
 @media (max-width: 1399px) {
   header.style-2 .logo-and-menu-area {
-    gap: 50px;
+    gap: 150px;
   }
 }
 header.style-2 .contact-area {
